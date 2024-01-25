@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Cyberbill sexy girl",
+        "prompt": "explicit photo shooting style {prompt} . casting pose, caucasian, perfect rond breast, perfect body,highly detailed, perfect hands, extremely realistic face,perfect eyes and long eyelashes,  symmetrical perfect eyes, skin pores, ultra detailed, RAW photo",
+        "negative_prompt": "disfigured, disproportionate, bad anatomy, bad proportions, ugly, out of frame, mangled, asymmetric, cross-eyed, depressed, immature, stuffed animal, out of focus, high depth of field, cloned face, cloned head, age spot, skin blemishes, collapsed eyeshadow, asymmetric ears, imperfect eyes, unnatural, conjoined, missing limb, missing arm, missing leg, poorly drawn face, poorly drawn feet, poorly drawn hands, floating limb, disconnected limb, extra limb, malformed limbs, malformed hands, poorly rendered face, poor facial details, poorly rendered hands, double face, unbalanced body, unnatural body, lacking body, long body, cripple, old, fat, cartoon, 3D, weird colors, unnatural skin tone, unnatural skin, stiff face, fused hand, skewed eyes, surreal, cropped head, group of people"
+    },
+	
+	
+	{
+		"name": "Cyberbill Fait de laine",
+		"prompt":" a wool {prompt} .  made of wool, lots of threads, very complex, very detailed, realistically rendered, very contrasted, well-defined shadow",
+		"negative_prompt":"noisy, blurry, amateurish, sloppy, unattractive, real skin, real material, real object"
+	},
+	
+	{
+		"name": "Cyberbill Fait de fils en or",
+		"prompt": "gold thread {prompt} .  made of gold thread; lots of threads; very complex , artistic and baroque arrangement of gold threads, very detailed;   realistically rendered, very contrasted,well-defined shadow",
+		"negative_prompt":"noisy, blurry, amateurish, sloppy, unattractive, real skin, real object,iron, copper, silver,skin"
+	},
+	{
+		"name": "Cyberbill Denim patchwork",
+		"prompt": "gold thread {prompt} .  ((entirely made of pieces of sewn used denim patchwork fabrics)), very detailed;   realistically rendered, very contrasted,well-defined shadow",
+		"negative_prompt":"noisy, blurry, amateurish, sloppy, unattractive"
+	},
+	{
+		"name": "Cyberbill superhero",
+		"prompt": "{prompt} .  ([marvel|DC Comics] superhero, super powered, gorgeous, proud, strong,incredible, determined,hero attitude), very detailed, realistically rendered, very contrasted, well-defined shadow, photo realistic",
+		"negative_prompt":"noisy, blurry, amateurish, sloppy, unattractive"
+	},
+	{
+		"name": "Cyberbill lens flare sunset",
+		"prompt": "(Cinematic Shot:1.3)(Shot on Aaton LTR 54) {prompt} . ((35mm, F/2.8) Photo Focus, DOF, Aperture, (DOF, blurry background, sunrise in the back of subject)(Lens Flare, Heresy flare:1.3),(sharpness, details, contrast, warm tones:1.5)(Dark Sky:1.3), sunset",
+		"negative_prompt":"cropped, regular face, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+	},
+	{
+		"name": "Cyberbill seventies",
+		"prompt": "(old 1970 vintage photo, EF 35) {prompt} . (environnement 1970, 1970 colors, 1970 artstyle)",
+		"negative_prompt":"cropped, regular face, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, text, cropped, out of frame, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, current, modern, saturated, bright color, futuristic, unreal, professional, poorly framed, cut out, subject out of frame"
+	},
+		{
+		"name": "Cyberbill love doll",
+		"prompt": "(Latex love doll:1.3) ((open mouth, pouty lips :1.7)) fake hairs {prompt} . caucasian, perfect rond breast, perfect body, highly detailed, perfect hands, perfect eyes and long eyelashes,  symmetrical perfect eyes , ultra detailed, RAW photo",
+		"negative_prompt":"cropped, regular face, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, text, cropped, out of frame, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, current, modern, saturated, bright color, futuristic, unreal, professional, poorly framed, cut out, subject out of frame"
+	},
+	{
+		"name": "Cyberbill Fibonacci Spiral",
+		"prompt": "shape drawing of {prompt} . made of bright and shiny colored pixels arranged in a Fibonacci spiral, multi-colored, on a very  psychedelic background, very marked shadow and light, vibrant colors ",
+		"negative_prompt":"dull, gray, ugly, realistic, cut, poor, dark, real"
+	},
+	{
+		"name": "Cyberbill Fractal color",
+		"prompt": "{prompt} . fractal style drawing, fractal spiral, fractal motif, fractal shape,  Fractal colors, fractal environnement, bright colors, HDR, strong contrast",
+		"negative_prompt":"dull, gray, ugly, realistic, cut, poor, dark, real"
+	},
+	{
+		"name": "Cyberbill Fractal mono",
+		"prompt": "{prompt} . fractal style drawing, fractal spiral, fractal motif, fractal shape,  Fractal colors, fractal environnement, bright colors, HDR, strong contrast",
+		"negative_prompt":" ugly, realistic, cut, poor, real"
+	},
+	{
+		"name": "Cyberbill low angle image",
+		"prompt": "seen from below {prompt} . (((low angle image , vanishing point of the image at the top center))),perfect render, HDR, 8k, best quality",
+		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
+	},
+		{
+		"name": "Cyberbill macro photo",
+		"prompt": "photographed very closely {prompt} . Very tight shot, macro, very marked contrasts, ultra detailed, very perseptable texture, f/11 ISO100,(((ultra bright color))),HDR,8k,made professional, hyper realistic, saturated color",
+		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
+	},
+	{
+		"name": "Cyberbill x-ray",
+		"prompt": "{prompt} .  X-ray style, (((complete X-ray))), showing the bones and soft tissues, bones clearly visible, soft tissues sufficiently contrasted   for detailed analysis BREAK The X-ray should be in black and white and have sufficient resolution for detailed analysis",
+		"negative_prompt":"color, perspective, 3d,opaque,shadow, contrast, cut,incomplete"
+	},
+	{
+		"name": "Cyberbill floral art",
+		"prompt": "{prompt} .  floral art, very artistic composition, bright colors, natural flowers, homogeneous distribution, very varied species of  flowers, multicolor flowers, very high definition, very detailed ,the flowers are fresh, bright colors",
+		"negative_prompt":"Dark, dead,sad, amateur"
+	},
+	{
+		"name": "Cyberbill splash paint",
+		"prompt": "{prompt} .  front of a black background, multiple splashes of fluorescent multicolor paint crash onto the black background, splashes fallow the shap of the subject, ((the movements of the paint leave a liminous trail)), the painting gradually blends with the subject, HDR, ultra glossy paint,   multicolor smoke backgroud, studio lighting",
+		"negative_prompt":"Dark, dead,sad, amateur"
+	},
+	{
+		"name": "Cyberbill Borg",
+		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
+	}
+	
+]
