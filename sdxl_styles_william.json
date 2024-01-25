@@ -62,7 +62,7 @@
 		"prompt": "seen from below {prompt} . (((low angle image , vanishing point of the image at the top center))),perfect render, HDR, 8k, best quality",
 		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
 	},
-		{
+	{
 		"name": "Cyberbill macro photo",
 		"prompt": "photographed very closely {prompt} . Very tight shot, macro, very marked contrasts, ultra detailed, very perseptable texture, f/11 ISO100,(((ultra bright color))),HDR,8k,made professional, hyper realistic, saturated color",
 		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
@@ -81,6 +81,11 @@
 		"name": "Cyberbill splash paint",
 		"prompt": "{prompt} .  front of a black background, multiple splashes of fluorescent multicolor paint crash onto the black background, splashes fallow the shap of the subject, ((the movements of the paint leave a liminous trail)), the painting gradually blends with the subject, HDR, ultra glossy paint,   multicolor smoke backgroud, studio lighting",
 		"negative_prompt":"Dark, dead,sad, amateur"
+	},
+	{
+		"name": "Cyberbill IMVU Game",
+		"prompt": "{prompt} .  IMVU game style (open GL render), low resolution ",
+		"negative_prompt":"Dark, dead,sad, realistic, HDR"
 	},
 	{
 		"name": "Cyberbill Borg",
