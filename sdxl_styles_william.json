@@ -83,16 +83,15 @@
 		"negative_prompt":"Dark, dead,sad, amateur"
 	},
 	{
-		"name": "Cyberbill IMVU Game",
+		"name": "Cyberbill Bling Bling"",
 		"prompt": "{prompt} .  bling rapper style  extravagant ostentatious, display of outward signs of wealth, gold and diamonds rhinestones and sequins, HDR, ultra detailed",
 		"negative_prompt":"poor, unsightly, amateur, black and white, poorly done, dark, sad,ugly"
 	},
 	{
-		"name": "Cyberbill Bling Bling",
+		"name": "Cyberbill IMVU Game",
 		"prompt": "{prompt} .  IMVU game style (open GL render), low resolution ",
 		"negative_prompt":"Dark, dead,sad, realistic, HDR"
 	},
-	
 	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
