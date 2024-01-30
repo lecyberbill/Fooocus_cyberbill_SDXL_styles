@@ -108,6 +108,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
 	},
 	{
+		"name": "Cyberbill printed circuit",
+		"prompt": "{prompt} .  (((masterpiece sculpture made of complexe printed circuit))), ((made of shiny printed circuit on a black PCB)), technological aspect,Bright micro LEDs distributed randomly throughout the sculpture they emit a soft warm light, the blending of circuits created subtle shadows,multiple connections of light fiber optic network arround the shape, 4k, ultra-detailed",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
