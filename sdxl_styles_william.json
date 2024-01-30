@@ -103,6 +103,11 @@
 		"negative_prompt":"joyful, colorful, cheerful, warm, warmth, bright colors, multi-colored"
 	},
 	{
+		"name": "Cyberbill Ascii Color Art",
+		"prompt": "{prompt} .  ascii art style, the ascii characters are in multicolor,  colors nuances  brings out subtle shadows, there are only characters from lettersletters of the alphabet,  the image pixels are ascii characters, the image is simple and poor in detail ",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
