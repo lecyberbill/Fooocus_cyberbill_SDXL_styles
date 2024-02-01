@@ -62,7 +62,7 @@
 		"prompt": "seen from below {prompt} . (((low angle image , vanishing point of the image at the top center))),perfect render, HDR, 8k, best quality",
 		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
 	},
-		{
+	{
 		"name": "Cyberbill macro photo",
 		"prompt": "photographed very closely {prompt} . Very tight shot, macro, very marked contrasts, ultra detailed, very perseptable texture, f/11 ISO100,(((ultra bright color))),HDR,8k,made professional, hyper realistic, saturated color",
 		"negative_prompt":"bad anatomy,bad proportions,blurry,cloned face,cropped,deformed,dehydrated,disfigured,duplicate,error,extra arms,extra fingers,extra legs,extra limbs,fused fingers,gross proportions,jpeg artifacts,long neck,low quality,lowres,malformed limbs,missing arms,missing legs,morbid,mutated hands,mutation,mutilated,out of frame,poorly drawn face,poorly drawn hands,signature,text,too many fingers,ugly,username,watermark,worst quality"
@@ -110,6 +110,11 @@
 	{
 		"name": "Cyberbill printed circuit",
 		"prompt": "{prompt} .  (((masterpiece sculpture made of complexe printed circuit))), ((made of shiny printed circuit on a black PCB)), technological aspect,Bright micro LEDs distributed randomly throughout the sculpture they emit a soft warm light, the blending of circuits created subtle shadows,multiple connections of light fiber optic network arround the shape, 4k, ultra-detailed",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
+	},
+	{
+		"name": "Cyberbill Murano Glass",
+		"prompt": "{prompt} .  Murano style glass sculpture outline style abstract, made of colorful swirling ((transparent)) disperssive inconsistent smoke with no notable features ",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
 	},
 	{
