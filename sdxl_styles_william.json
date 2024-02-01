@@ -118,6 +118,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured"
 	},
 	{
+		"name": "Cyberbill Abstract Geometric Pattern",
+		"prompt": "{prompt} .  seamless geometric abstract pattern geometric drawing  shapes, art work, Trendy colorful background design,  artistic style texture, bright and cheerful colors",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
