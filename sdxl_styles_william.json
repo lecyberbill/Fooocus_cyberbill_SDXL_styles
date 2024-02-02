@@ -128,6 +128,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly"
 	},
 	{
+		"name": "Cyberbill Collection isometric",
+		"prompt": "{prompt} . a collection of different types and random poses, random color, isolated on a background, isometric flat art cartoon style, vivid colors, 8K",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
