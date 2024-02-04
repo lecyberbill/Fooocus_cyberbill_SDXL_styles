@@ -4,8 +4,6 @@
         "prompt": "explicit photo shooting style {prompt} . casting pose, caucasian, perfect rond breast, perfect body,highly detailed, perfect hands, extremely realistic face,perfect eyes and long eyelashes,  symmetrical perfect eyes, skin pores, ultra detailed, RAW photo",
         "negative_prompt": "disfigured, disproportionate, bad anatomy, bad proportions, ugly, out of frame, mangled, asymmetric, cross-eyed, depressed, immature, stuffed animal, out of focus, high depth of field, cloned face, cloned head, age spot, skin blemishes, collapsed eyeshadow, asymmetric ears, imperfect eyes, unnatural, conjoined, missing limb, missing arm, missing leg, poorly drawn face, poorly drawn feet, poorly drawn hands, floating limb, disconnected limb, extra limb, malformed limbs, malformed hands, poorly rendered face, poor facial details, poorly rendered hands, double face, unbalanced body, unnatural body, lacking body, long body, cripple, old, fat, cartoon, 3D, weird colors, unnatural skin tone, unnatural skin, stiff face, fused hand, skewed eyes, surreal, cropped head, group of people"
     },
-	
-	
 	{
 		"name": "Cyberbill Fait de laine",
 		"prompt":" a wool {prompt} .  made of wool, lots of threads, very complex, very detailed, realistically rendered, very contrasted, well-defined shadow",
