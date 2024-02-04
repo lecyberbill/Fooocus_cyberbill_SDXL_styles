@@ -133,6 +133,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
 	},
 	{
+		"name": "Cyberbill Flat Vector Circle",
+		"prompt": "{prompt} . flat shape, flat design, vector, (circle concentric geometric), geometric composition, square shapes are angular, ultra detailed form, solid color, abstract, artistic work, vivid colors",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed, real, photographed"
+	},	
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
