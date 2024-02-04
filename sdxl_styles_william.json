@@ -136,6 +136,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed, real, photographed"
 	},	
 	{
+		"name": "Cyberbill 3D Wireframe",
+		"prompt": "{prompt} . 3d ((line drawing)), (solid colors),  (quads topology),(3D wireframe model  rendering style:1.8),high polygon",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed, real, photographed"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
