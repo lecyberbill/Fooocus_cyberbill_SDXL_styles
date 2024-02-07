@@ -156,6 +156,16 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
 	},
 	{
+		"name": "Cyberbill Monochrome Screen",
+		"prompt": "monochrome 2D dot matrix  green pixels representation of {prompt} . on a black background , solid bright green color, solid black color, unreal ,  ultra pixelated, low resolution, ultra low detail, infinite contrast, [black:green: 0.5]",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
+	},
+	{
+		"name": "Cyberbill Evanescent Sun",
+		"prompt": "ink illustration, ink stains, ink splatters, ink runs, ink spots, faded ink, evanescent ink,natural lighting, monochromatic, warm and gentle ray of sunshine, enveloped in ribbons of smok , random fractal disposition, joy happiness, impulse of joy, represenation of  {prompt} . extremely detailed",
+		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
