@@ -107,3 +107,6 @@ Abstract geometric pattern
 
 ![cyberbill_3d_wireframe](https://github.com/lecyberbill/Fooocus_cyberbill_SDXL_styles/assets/152601863/64c38775-374a-442a-ba7e-88942faffa81)
 3d wireframe Style
+
+![cyberbill_pixar_studio](https://github.com/lecyberbill/Fooocus_cyberbill_SDXL_styles/assets/152601863/ec230172-c7eb-4b4f-9026-82f6b4e69165)
+Pixar studio Style
