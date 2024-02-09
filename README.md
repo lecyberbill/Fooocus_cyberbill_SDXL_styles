@@ -3,7 +3,7 @@
 
 Place the sdxl_styles_william.json file in your Fooocus\sdxl_styles directory the images from the samples folder in the Fooocus\sdxl_styles\samples folder
 Some styles work better on their own, others can give nice surprises when mixed together.
-Relaunch Fooocus, 34 new styles in your style list , enjoy!
+Relaunch Fooocus, 35 new styles in your style list , enjoy!
 
 ![cyberbill_x_ray](https://github.com/lecyberbill/Fooocus_cyberbill_SDXL_styles/assets/152601863/f7222d03-3785-44c1-ac32-59f949034216)
 X Ray style
