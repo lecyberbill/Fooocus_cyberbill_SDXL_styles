@@ -110,3 +110,7 @@ Abstract geometric pattern
 
 ![cyberbill_pixar_studio](https://github.com/lecyberbill/Fooocus_cyberbill_SDXL_styles/assets/152601863/ec230172-c7eb-4b4f-9026-82f6b4e69165)
 Pixar studio Style
+
+![cyberbill_valentine's_day](https://github.com/lecyberbill/Fooocus_cyberbill_SDXL_styles/assets/152601863/4c364e6e-f039-4f8d-b3ca-14a55a316241)
+Valentine's day Style
+
