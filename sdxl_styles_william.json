@@ -166,6 +166,11 @@
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, deformed"
 	},
 	{
+		"name": "Cyberbill Pixar studio",
+		"prompt": "pixar style, masterpiece, soft studio light, {prompt} .  pixar character, image inspired by the Pixar universe, 4k, 8k, HDR, high details, cinematographic rendering, professional, incredible, fun, funny, RenderMan rendering",
+		"negative_prompt":"colorless rendition, extremely poor quality, subpar quality, average quality, awkward cropping, out of focus, incorrect anatomy, rough sketch, low resolution, deformed, additional hand, extra digit,  excessive JPEG artifacts, visible signature, prominent watermark, username distraction, artist name overshadowing"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
