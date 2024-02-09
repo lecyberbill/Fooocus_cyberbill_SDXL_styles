@@ -171,6 +171,11 @@
 		"negative_prompt":"colorless rendition, extremely poor quality, subpar quality, average quality, awkward cropping, out of focus, incorrect anatomy, rough sketch, low resolution, deformed, additional hand, extra digit,  excessive JPEG artifacts, visible signature, prominent watermark, username distraction, artist name overshadowing"
 	},
 	{
+		"name": "Cyberbill Valentine's day",
+		"prompt": "Valentine's day style, hearts, flowers, rose petals, red, romantic atmosphere, sunset, love, butterflies, doves, {prompt} . very detailed, professional rendering, k4, 8k, HDR, very detailed, beautiful, magnificent, fantastic, incredible",
+		"negative_prompt":"disfigured, disproportionate, bad anatomy, bad proportions, ugly, out of frame, mangled, asymmetric, cross-eyed, depressed, immature, stuffed animal, out of focus, high depth of field, cloned face, cloned head, age spot, skin blemishes, collapsed eyeshadow, asymmetric ears, imperfect eyes, unnatural, conjoined, missing limb, missing arm, missing leg, poorly drawn face, poorly drawn feet, poorly drawn hands, floating limb, disconnected limb, extra limb, malformed limbs, malformed hands, poorly rendered face, poor facial details, poorly rendered hands, double face, unbalanced body, unnatural body, lacking body, long body, cripple, old, fat, cartoon, 3D, weird colors, unnatural skin tone, unnatural skin, stiff face, fused hand, skewed eyes, surreal, cropped head"
+	},
+	{
 		"name": "Cyberbill Borg",
 		"prompt": " {prompt} . ((futurist, biocybernetic borg implants , gray skin, black veins, necrotic skin, black eyes, blacks pipes on body, blacks pipes in the head, black leather helmets with red or green electronic light)), the subject should include advanced mechanical and future systems BREAK green atmosphere",
 		"negative_prompt":"cropped, out of frame, jpeg artifacts, ugly, duplicate, bad proportions, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, futuristic, poorly framed, cut out, subject out of frame"
